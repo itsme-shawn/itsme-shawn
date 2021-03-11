@@ -18,7 +18,6 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white)
-<br/>
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=white)
 
