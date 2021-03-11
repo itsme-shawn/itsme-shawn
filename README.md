@@ -11,27 +11,16 @@
 
 ## 💻 Tech stack
 
-### Language
-
-![HTML](https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-<br>
-
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=black)
+![Vue](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white)
+<br/>
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=white)
-
-
-
-### Framework
-![Vue](https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
-
-### Tools
-![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=blue)
-
-### Others..
-![Nodejs](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-
 
 
 ## 📞 Contact me
