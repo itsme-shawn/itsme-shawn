@@ -24,7 +24,7 @@
 
 ## 📞 Contact me
 
-[![블로그](https://img.shields.io/badge/Blog-%EC%9E%A1%EC%8A%A4%ED%83%9D%EA%B0%9C%EB%B0%9C%EC%9E%90.io-ed8282)](https://keep-going-hyeonsoo.github.io/)
+[![블로그](https://img.shields.io/badge/-Velog-22c997)](https://velog.io/@hye0n)
 [![Facebook](http://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/people/%EC%B5%9C%ED%98%84%EC%88%98/100005715706046)](https://www.facebook.com/people/%EC%B5%9C%ED%98%84%EC%88%98/100005715706046)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/Hyeon_980105/?fbclid=IwAR3mVHQnsu_dxeDKLn3Jd1pdPo4ilw88zNXTlpWMbXJfj176MiEzlv-9wiA)
 
