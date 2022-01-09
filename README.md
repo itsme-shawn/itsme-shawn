@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm HyeonSoo Choi 
 
-**🔥 I’m currently learning Web Full-stack with JS
+**🔥 I’m currently learning Web Full-stack with JS**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Keep-Going-HyeonSoo&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
