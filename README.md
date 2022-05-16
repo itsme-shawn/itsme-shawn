@@ -2,6 +2,22 @@
 
 ## 👋 Hi, I'm HyeonSoo Choi 
 
+겉만 화려하기보단, 속이 단단한 개발자가 되고자 합니다.
+<h3><a href="https://shawni.notion.site/shawni/Profile-430caf6b7b034ea7baced1c34b4bb4c4" target="_blank">🧑🏻‍💻 Profile</a></h3>
+
+<h3>🚴🏻‍♂️ Activity</h3>
+
+* SW 마에스트로 13기
+* 멋쟁이사자처럼 서강대 10기
+
+<h3>🔥 Projects</h3>
+
+* <a href="https://shawni.notion.site/shawni/Profile-430caf6b7b034ea7baced1c34b4bb4c4" target="_blank">서강신청</a> : 서강대학교 수강신청 도우미
+* <a href="https://shawni.notion.site/shawni/Profile-430caf6b7b034ea7baced1c34b4bb4c4" target="_blank">duobody</a> : 헬스트레이너의 PT회원 관리 app
+* <a href="https://shawni.notion.site/shawni/Profile-430caf6b7b034ea7baced1c34b4bb4c4" target="_blank">정신차렷!</a> : 군 정신전력교육 온라인플랫폼
+
+
+---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keepgoing-hyeonsoo&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keepgoing-hyeonsoo&hide=html&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
