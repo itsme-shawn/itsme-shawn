@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm HyeonSoo Choi 
 
-겉만 화려하기보단, 속이 단단한 개발자가 되고자 합니다.
+겉만 화려하기보단, 속이 단단한 백엔드 개발자가 되고자 합니다.
 <h3><a href="https://shawni.notion.site/shawni/Profile-430caf6b7b034ea7baced1c34b4bb4c4" target="_blank">🧑🏻‍💻 Profile</a></h3>
 
 <h3>🚴🏻‍♂️ Activity</h3>
