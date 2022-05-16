@@ -12,9 +12,9 @@
 
 <h3>🔥 Projects</h3>
 
-* <a href="https://shawni.notion.site/shawni/Profile-430caf6b7b034ea7baced1c34b4bb4c4" target="_blank">서강신청</a> : 서강대학교 수강신청 도우미
-* <a href="https://shawni.notion.site/shawni/Profile-430caf6b7b034ea7baced1c34b4bb4c4" target="_blank">duobody</a> : 헬스트레이너의 PT회원 관리 app
-* <a href="https://shawni.notion.site/shawni/Profile-430caf6b7b034ea7baced1c34b4bb4c4" target="_blank">정신차렷!</a> : 군 정신전력교육 온라인플랫폼
+* <a href="https://github.com/facade-team/sogang-register-web" target="_blank">서강신청</a> : 서강대학교 수강신청 도우미
+* <a href="https://github.com/facade-team/duobody-server" target="_blank">duobody</a> : 헬스트레이너의 PT회원 관리 app
+* <a href="https://github.com/keepgoing-hyeonsoo/smart-mind" target="_blank">정신차렷!</a> : 군 정신전력교육 온라인플랫폼
 
 
 ---
