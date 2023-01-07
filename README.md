@@ -1,43 +1,68 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeep-Going-HyeonSoo&count_bg=%237ACB3C&title_bg=%23555555&icon=cliqz.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 👋 Hi, I'm HyeonSoo Choi 
+<div align="center">  
+  
+
+## 👋 Hi, I'm HyeonSoo Choi
 
 겉만 화려하기보단, 속이 단단한 백엔드 개발자가 되고자 합니다.
-<h3><a href="https://shawn-dev.me/profile" target="_blank">🧑🏻‍💻 Profile</a></h3>
 
-<h3>🚴🏻‍♂️ Activity</h3>
+<h3> 👇 상세 프로필 👇 </h3>
+<h3><a href="https://shawn-dev.me/profile" target="_blank">🧑🏻‍💻 Profile</a></h3>  
+<br>
+  
+## 💻 Tech stack
 
-* SW 마에스트로 13기
-* 멋쟁이사자처럼 서강대 10기
+### Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![java](https://img.shields.io/badge/java-E86914?style=for-the-badge&logo=java&logoColor=white)
+ 
+### BE
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
+  
+### DB
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+  
+### FE
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
+  
+### DevOps / Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white)
+  
+### Coworking tools
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-<h3>🔥 Projects</h3>
-
-* <a href="https://github.com/facade-team/sogang-register-web" target="_blank">서강신청</a> : 서강대학교 수강신청 도우미
-* <a href="https://github.com/facade-team/duobody-server" target="_blank">duobody</a> : 헬스트레이너의 PT회원 관리 app
-* <a href="https://github.com/keepgoing-hyeonsoo/smart-mind" target="_blank">정신차렷!</a> : 군 정신전력교육 온라인플랫폼
-
-
----
+<br><br>
+ 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keepgoing-hyeonsoo&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keepgoing-hyeonsoo&hide=html,pug&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-## 💻 Tech stack
-
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Nodejs](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=C&logoColor=white)
 
 
 ## 📞 Contact me
 
-[![블로그](https://img.shields.io/badge/-Velog-22c997)](https://velog.io/@hye0n)
-[![Facebook](http://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/people/%EC%B5%9C%ED%98%84%EC%88%98/100005715706046)](https://www.facebook.com/people/%EC%B5%9C%ED%98%84%EC%88%98/100005715706046)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/Hyeon_980105/?fbclid=IwAR3mVHQnsu_dxeDKLn3Jd1pdPo4ilw88zNXTlpWMbXJfj176MiEzlv-9wiA)
+<h3><a href="https://shawn-dev.me" target="_blank">📝 blog</a></h3>  
+<h3><a href="mailto:chs98105@naver.com" target="_blank">📮 email</a></h3>  
+  
+</div>
 
 
 
