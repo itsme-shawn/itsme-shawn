@@ -11,7 +11,7 @@
 <h3><a href="https://shawn-dev.me/profile" target="_blank">🧑🏻‍💻 Profile</a></h3>  
 <br>
   
-## 💻 Tech stack
+## 🔧 Skill set
 
 ### Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
