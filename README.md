@@ -1,9 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeep-Going-HyeonSoo&count_bg=%237ACB3C&title_bg=%23555555&icon=cliqz.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align="center">  
+
   
 
-## 👋 Hi, I'm HyeonSoo Choi
+## 👋 Hi, I'm HyeonSoo Choi (shawn)
 
 겉만 화려하기보단, 속이 단단한 백엔드 개발자가 되고자 합니다.
 
@@ -17,23 +17,17 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![java](https://img.shields.io/badge/java-E86914?style=for-the-badge&logo=java&logoColor=white)
  
 ### BE
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
   
 ### DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-  
-### FE
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
   
 ### DevOps / Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
@@ -116,7 +110,6 @@ Mac                      21 hrs 38 mins      ███████████�
 <h3><a href="https://shawn-dev.me" target="_blank">📝 blog</a></h3>  
 <h3><a href="mailto:chs98105@naver.com" target="_blank">📮 email</a></h3>  
   
-</div>
 
 
 
