@@ -45,7 +45,7 @@
 <br><br>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2029%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -80,7 +80,7 @@ Mac                      21 hrs 38 mins      ███████████�
 ```
 
 
- Last Updated on 25/01/2023 03:52:41 UTC
+ Last Updated on 25/01/2023 12:36:01 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keepgoing-hyeonsoo&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
