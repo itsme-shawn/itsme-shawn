@@ -45,15 +45,15 @@
 <br><br>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2024%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
-🌆 Daytime    66 commits     █████░░░░░░░░░░░░░░░░░░░░   22.0% 
-🌃 Evening    124 commits    ██████████░░░░░░░░░░░░░░░   41.33% 
-🌙 Night      71 commits     ██████░░░░░░░░░░░░░░░░░░░   23.67%
+🌞 Morning    39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
+🌆 Daytime    66 commits     █████░░░░░░░░░░░░░░░░░░░░   21.85% 
+🌃 Evening    125 commits    ██████████░░░░░░░░░░░░░░░   41.39% 
+🌙 Night      72 commits     ██████░░░░░░░░░░░░░░░░░░░   23.84%
 
 ```
 
@@ -80,7 +80,7 @@ Mac                      21 hrs 38 mins      ███████████�
 ```
 
 
- Last Updated on 25/01/2023 12:36:01 UTC
+ Last Updated on 25/01/2023 15:14:15 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keepgoing-hyeonsoo&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
