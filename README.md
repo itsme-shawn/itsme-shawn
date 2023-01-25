@@ -51,40 +51,58 @@
 <br><br>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
-> 🏆 34 Contributions in the Year 2023
- > 
-> 📦 60.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
+**I'm a Night 🦉** 
 
 ```text
-JavaScript               8 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+🌞 Morning    39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
+🌆 Daytime    62 commits     █████░░░░░░░░░░░░░░░░░░░░   20.95% 
+🌃 Evening    124 commits    ██████████░░░░░░░░░░░░░░░   41.89% 
+🌙 Night      71 commits     ██████░░░░░░░░░░░░░░░░░░░   23.99%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+Tuesday      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
+Wednesday    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
+Thursday     58 commits     █████░░░░░░░░░░░░░░░░░░░░   19.59% 
+Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
+Saturday     46 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
+Sunday       47 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.88%
 
 ```
 
 
-**Timeline**
+📊 **This Week I Spent My Time On** 
 
-![Chart not found](https://raw.githubusercontent.com/keepgoing-hyeonsoo/keepgoing-hyeonsoo/master/charts/bar_graph.png) 
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Python                   18 hrs 35 mins      █████████████████████░░░░   85.9% 
+Java                     2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
+CLASS                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
+Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+
+🔥 Editors: 
+VS Code                  18 hrs 49 mins      █████████████████████░░░░   86.99% 
+IntelliJ                 2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01%
+
+💻 Operating System: 
+Mac                      21 hrs 38 mins      █████████████████████████   100.0%
+
+```
 
 
- Last Updated on 25/01/2023 02:47:21 UTC
+ Last Updated on 25/01/2023 02:59:25 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keepgoing-hyeonsoo&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
