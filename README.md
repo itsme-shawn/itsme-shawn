@@ -80,7 +80,7 @@ Mac                      28 hrs 49 mins      ███████████�
 ```
 
 
- Last Updated on 28/01/2023 15:13:12 UTC
+ Last Updated on 29/01/2023 15:13:06 UTC
 <!--END_SECTION:waka-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keepgoing-hyeonsoo&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
