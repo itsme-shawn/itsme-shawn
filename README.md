@@ -83,9 +83,9 @@ Mac                      40 hrs 31 mins      ███████████�
 
  Last Updated on 01/02/2023 15:14:34 UTC
 <!--END_SECTION:waka-->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keepgoing-hyeonsoo&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsme-shawn&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keepgoing-hyeonsoo&hide=html,pug&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-shawn&hide=html,pug&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
