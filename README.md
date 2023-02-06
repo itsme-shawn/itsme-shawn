@@ -83,11 +83,15 @@ Mac                      43 hrs 18 mins      ███████████�
 
  Last Updated on 05/02/2023 15:12:59 UTC
 <!--END_SECTION:waka-->
+
+   
+<br><br>
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsme_shawn&layout=compact&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<br><br> 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsme-shawn&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-shawn&hide=html,pug&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-shawn&hide=html,pug,jupyter%20notebook&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>   -->
 
 
 ## 📞 Contact me
@@ -96,19 +100,3 @@ Mac                      43 hrs 18 mins      ███████████�
 <h3><a href="mailto:chs98105@naver.com" target="_blank">📮 email</a></h3>  
   
 
-
-
-<!--
-**Keep-Going-HyeonSoo/Keep-Going-HyeonSoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
