@@ -63,19 +63,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   3 hrs 12 mins       █████████████████████████   99.72 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/04/2023 15:13:44 UTC
+ Last Updated on 28/04/2023 15:13:16 UTC
 <!--END_SECTION:waka-->
 
    
