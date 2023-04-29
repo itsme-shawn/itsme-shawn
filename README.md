@@ -45,7 +45,7 @@
 <br><br>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-770%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-774%20hrs%2036%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -63,17 +63,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 29 mins       █████████████████████████   98.41 % 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/04/2023 15:13:16 UTC
+ Last Updated on 29/04/2023 15:11:39 UTC
 <!--END_SECTION:waka-->
 
    
