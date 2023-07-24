@@ -8,7 +8,7 @@
 겉만 화려하기보단, 속이 단단한 백엔드 개발자가 되고자 합니다.
 
 <h3> 👇 상세 프로필 👇 </h3>
-<h1><a href="https://shawn-dev.me/profile" target="_blank">🧑🏻‍💻 Profile</a></h1>  
+<h1><a href="[https://shawn-dev.me/profile](https://shawn-dev.oopy.io/profile)" target="_blank">🧑🏻‍💻 Profile</a></h1>  
 <br>
   
 ## 🔧 Skill set
