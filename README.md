@@ -86,7 +86,7 @@ GPT 멀티에이전트를 활용한 스마트홈 IoT 루틴 자동화
 <br><br>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C661%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C664%20hrs%2058%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -104,17 +104,18 @@ GPT 멀티에이전트를 활용한 스마트홈 IoT 루틴 자동화
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     6 hrs 49 mins       █████████████████████████   100.00 % 
+Java                     10 hrs 20 mins      █████████████████████████   98.57 % 
+CLASS                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 49 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            10 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/06/2025 15:20:57 UTC
+ Last Updated on 03/06/2025 15:21:26 UTC
 <!--END_SECTION:waka-->
 
    
