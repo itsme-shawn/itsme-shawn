@@ -104,17 +104,17 @@ GPT 멀티에이전트를 활용한 스마트홈 IoT 루틴 자동화
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/07/2025 15:21:08 UTC
+ Last Updated on 03/07/2025 15:20:55 UTC
 <!--END_SECTION:waka-->
 
    
