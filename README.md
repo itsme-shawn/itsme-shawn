@@ -86,8 +86,35 @@ GPT 멀티에이전트를 활용한 스마트홈 IoT 루틴 자동화
 <br><br>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C686%20hrs%208%20mins-blue)
 
- Last Updated on 30/07/2025 15:21:37 UTC
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+🌆 Daytime                485 commits         ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+🌃 Evening                768 commits         ███████████░░░░░░░░░░░░░░   43.99 % 
+🌙 Night                  313 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 31/07/2025 15:21:41 UTC
 <!--END_SECTION:waka-->
 
    
