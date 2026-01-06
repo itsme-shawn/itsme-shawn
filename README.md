@@ -86,7 +86,7 @@ GPT 멀티에이전트를 활용한 스마트홈 IoT 루틴 자동화
 <br><br>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C693%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C693%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -114,7 +114,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/01/2026 15:23:23 UTC
+ Last Updated on 06/01/2026 15:22:22 UTC
 <!--END_SECTION:waka-->
 
    
