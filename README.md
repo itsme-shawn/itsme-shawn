@@ -116,20 +116,3 @@ No Activity Tracked This Week
 
  Last Updated on 30/01/2026 15:33:32 UTC
 <!--END_SECTION:waka-->
-
-   
-<br><br>
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsme_shawn&layout=compact&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-<br><br> 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itsme-shawn&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-shawn&hide=html,pug,jupyter%20notebook&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>   -->
-
-
-## 📞 Contact me
-
-<h3><a href="https://shawn-dev.me" target="_blank">📝 blog</a></h3>  
-<h3><a href="mailto:chs98105@naver.com" target="_blank">📮 email</a></h3>  
-  
-
