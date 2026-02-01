@@ -81,6 +81,6 @@ GPT 멀티에이전트를 활용한 스마트홈 IoT 루틴 자동화
 
 - **Email**: chs98105@gmail.com  
 - **GitHub**: [github.com/itsme-shawn](https://github.com/itsme-shawn)  
-- **Blog**: [shawn-dev.oopy.io](https://shawn-dev.oopy.io)
+- **Blog**: [velog.io/@hye0n](https://velog.io/@hye0n)
 
 <br><br>
